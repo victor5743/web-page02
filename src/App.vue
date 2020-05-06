@@ -1,6 +1,11 @@
 <template>
-	<div class="bg-gray-900" id="app">
+	<div class="bg-gray-900 text-white flex min-h-screen" id="app">
 		<Sidebar />
+		<div class="w-full mx-24">
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illum eveniet quod
+			maiores quia? Nulla, quis dolores modi repudiandae tempora, dolore incidunt ullam
+			totam rerum nam ipsa officiis earum cum.
+		</div>
 	</div>
 </template>
 
@@ -14,5 +19,3 @@ export default {
 	},
 };
 </script>
-
-<style src="./assets/tailwind.css"></style>
