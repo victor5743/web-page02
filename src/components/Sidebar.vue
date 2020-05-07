@@ -1,5 +1,10 @@
 <template>
 	<div class="w-24 min-h-screen flex justify-center items-center text-gray-500">
+		<Slide>
+			<a id="home" href="#">
+				<span>Home</span>
+			</a>
+		</Slide>
 		<ul>
 			<li class="mb-10">
 				<a class="hover:text-white" href="#">
@@ -88,5 +93,11 @@
 </template>
 
 <script>
-export default {};
+import { Slide } from 'vue-burger-menu';
+
+export default {
+	components: {
+		Slide,
+	},
+};
 </script>
