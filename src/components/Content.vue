@@ -50,6 +50,7 @@
 				</a>
 			</div>
 		</div>
+
 		<!-- Recommendations -->
 		<div>
 			<h2 class="text-gray-500 mb-1">Recommended For You</h2>
