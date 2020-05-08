@@ -1,6 +1,7 @@
 <template>
-	<div class="w-24 min-h-screen flex justify-center items-center text-gray-500 ml-4">
+	<div class="w-24 min-h-screen flex justify-center items-center text-gray-500">
 		<SidebarNavigation />
+
 		<ul>
 			<li class="mb-10">
 				<a class="hover:text-white" href="#">

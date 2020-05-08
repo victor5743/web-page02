@@ -9,6 +9,9 @@ module.exports = {
 			colors: {
 				dark: '#242C3E',
 			},
+			fontFamily: {
+				roboto: ['Roboto'],
+			},
 		},
 	},
 	variants: {},

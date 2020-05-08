@@ -1,5 +1,8 @@
 <template>
-	<div class="bg-gray-900 text-white flex min-h-screen" id="app">
+	<div
+		class="bg-gray-900 text-white flex min-h-screen min-w-screen font-roboto tracking-wider"
+		id="app"
+	>
 		<Sidebar />
 		<Content />
 	</div>
