@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="bg-gray-900 text-white flex min-h-screen min-w-screen font-roboto tracking-wider"
+		class="bg-gray-900 text-white flex min-h-screen font-roboto tracking-wider"
 		id="app"
 	>
 		<Sidebar />

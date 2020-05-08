@@ -1,7 +1,7 @@
 <template>
 	<div class="p-8 block">
 		<!-- Main image -->
-		<img class="mb-8 shadow-custom" src="@/assets/slide1.jpg" alt="mandalorian" />
+		<img class="mb-8 shadow-custom w-full" src="@/assets/slide1.jpg" alt="mandalorian" />
 		<!-- Movies list -->
 		<div class="flex items-center mt-8">
 			<div class="w-1/5">
@@ -74,7 +74,7 @@
 						<img src="@/assets/zootopia.jpg" alt="star wars" />
 					</a>
 				</div>
-				<div class="shadow-xl mr-6">
+				<div class="shadow-xl">
 					<a href="#">
 						<img src="@/assets/one_strange_rock.jpg" alt="star wars" />
 					</a>
@@ -105,7 +105,7 @@
 						<img src="@/assets/one_strange_rock.jpg" alt="star wars" />
 					</a>
 				</div>
-				<div class="shadow-xl mr-6">
+				<div class="shadow">
 					<a href="#">
 						<img src="@/assets/remember_the_titans.jpg" alt="star wars" />
 					</a>
@@ -136,7 +136,7 @@
 						<img src="@/assets/forky_asks_a_question.jpg" alt="star wars" />
 					</a>
 				</div>
-				<div class="shadow-xl mr-6">
+				<div class="shadow-xl">
 					<a href="#">
 						<img src="@/assets/marvel_hero_project.jpg" alt="star wars" />
 					</a>
@@ -167,7 +167,7 @@
 						<img src="@/assets/star_wars_a_new_hope.jpg" alt="star wars" />
 					</a>
 				</div>
-				<div class="shadow-xl mr-6">
+				<div class="shadow-xl">
 					<a href="#">
 						<img src="@/assets/zootopia.jpg" alt="star wars" />
 					</a>

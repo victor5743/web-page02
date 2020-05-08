@@ -1,8 +1,8 @@
 <template>
-	<div class="w-24 min-h-screen flex justify-center items-center text-gray-500">
+	<div class="w-24 min-h-screen flex justify-center items-center text-gray-500 ml-10">
 		<SidebarNavigation />
 
-		<ul>
+		<!-- <ul>
 			<li class="mb-10">
 				<a class="hover:text-white" href="#">
 					<svg fill="currentColor" viewBox="0 0 24 24" width="24" height="24">
@@ -85,7 +85,7 @@
 					</svg>
 				</a>
 			</li>
-		</ul>
+		</ul> -->
 	</div>
 </template>
 
